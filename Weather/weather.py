@@ -66,6 +66,6 @@ for entry in entries:
 
 data = pd.DataFrame(np.stack((np.array(cities), np.array(temperature), np.array(weather)), axis=1))
 # Create a dataframe from the city, temperature and weather data collected
-data.to_csv("Weather/sample_3.csv")
+data.to_csv("Weather/sample_4.csv")
 # Export the dataframe as a csv file
 print(data)
