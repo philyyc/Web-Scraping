@@ -97,7 +97,8 @@ scrapy crawl FinanceModeling -a company="name" -O file_name.file_type
 &nbsp;
 
 **Examples**
-- Currently no examples available
+- Currently no examples available\
+&nbsp;
 
 **Others**
 - Real-time stock information is fetched; however, the fetched data is **NOT** updated automatically
